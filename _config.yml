@@ -1,3 +1,4 @@
-theme: hyde
+#theme: hyde
+remote_theme: poole/hyde
 title: Writelab
 author: Kevin
