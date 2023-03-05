@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 # About this site
 Hello and welcome to my space on the web! My name is Bin Bian, and I'm here to share a little about myself and my journey in the digital world.
 
