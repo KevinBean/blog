@@ -6,15 +6,12 @@ category:
 author: 
 tags: []
 summary: 
----
-
----
-date created: 2023-02-03 16:03
+excerpt: 
 ---
 
 # The original article
 
-[Scheduling Notebook and Script Runs with GitHub Actions | by Naveen Venkatesan | Towards Data Science](https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2)
+[Scheduling Notebook and Script Runs with GitHub Actions  by Naveen Venkatesan  Towards Data Science](https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2)
 
 
 The following steps are based on the original article.
@@ -59,7 +56,7 @@ So we will not use it.
 
 ## We will try - Append Data to File
 
-```jupyter
+```python
 # Import packages
 import pandas as pd
 import os
@@ -187,9 +184,10 @@ The code will run and create a `square.csv` file as we mentioned in "We will try
 And the final `YAML` file will be like this:
 
 Pay attention to this:
-```ad-warning
+```
 Error : A YAML file cannot contain tabs as indentation.
 ```
+The file:
 
 ```YAML
 
