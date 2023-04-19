@@ -19,7 +19,7 @@ name:            Writelab
 tagline:          'A Jekyll theme'
 description:      'A brazen site.'
 url:              http://kevinbean.github.io
-baseurl:          /blog
+baseurl:          /
 
 author:
   name:           'Kevin'
